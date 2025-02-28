@@ -4014,7 +4014,7 @@ END
 // context: Button to use the selected map
 GUI:SelectAMap
 US: "SELECT MAP"
-DE: "Karte Wähle"
+DE: "Karte wählen"
 FR: "Choisir carte"
 ES: "Seleccionar Mapa"
 IT: "CAMBIA MAPPA"
@@ -4030,7 +4030,7 @@ END
 // context: Button to go to the game selection screen
 GUI:SelectAGame
 US: "SELECT GAME"
-DE: "Spiel Wähle"
+DE: "Spiel wählen"
 FR: "Choisir Partie"
 ES: "Seleccionar Partida"
 IT: "SELEZIONA PARTITA"
@@ -5158,7 +5158,7 @@ END
 // context: Used to select the map
 TOOLTIP:SelectMap
 US: "Select the battlefield you would like to use"
-DE: "Wähle ein Schlachtfeld."
+DE: "Wähle das Schlachtfeld, das Du verwenden möchtest."
 FR: "Sélectionnez le champ de bataille de votre choix."
 ES: "Selecciona el campo de batalla que prefieras."
 IT: "Seleziona il campo di battaglia che vuoi utilizzare."
@@ -5175,7 +5175,7 @@ END
 //"Cast vote to remove player"
 TOOLTIP:Vote
 US: "Click to vote player out of game in order for you to continue"
-DE: "Spieler aus dem Spiel Wähle, um fortzufahren."
+DE: "Um fortzufahren, stimme durch Klicken für das Rauswerfen des Spielers."
 FR: "Votez l'éviction d'un joueur pour pouvoir continuer."
 ES: "Clic para echar al jugador y que puedas continuar."
 IT: "Clicca per votare l'esclusione del giocatore dalla partita per continuare."
@@ -5260,7 +5260,7 @@ END
 // context:Used to indicate map starting locations
 TOOLTIP:StartLocation
 US: "Starting position"
-DE: "Startposition. Klicke, um diese als deine Startposition auf der Karte auszuWähle."
+DE: "Startposition. Klicke, um diese als Deine Startposition auf der Karte auszuwählen."
 FR: "Définissez votre point de départ. Pour cela, cliquez sur l'emplacement de la carte de votre choix."
 ES: "Posición inicial."
 IT: "Posizione iniziale."
@@ -5952,7 +5952,7 @@ END
 // context: Used on the stat screen when displaying a user's own stats online, Set locale button prompts to set their locale
 GUI:SetLocale
 US: "SET LOCALE"
-DE: "Land Wähle"
+DE: "Land wählen"
 FR: "Définir Pays"
 ES: "FIJAR PAÍS"
 IT: "IMPOSTA NAZIONE"
@@ -6529,7 +6529,7 @@ END
 // context: Ladder selection boxes
 GUI:ChooseLadder
 US: "CHOOSE A LADDER"
-DE: "RANGLISTE Wähle"
+DE: "Wähle eine Rangliste aus"
 FR: "Choisir un classement"
 ES: "Elegir tabla"
 IT: "Scegli classifica"
@@ -7679,7 +7679,7 @@ END
 // context: Player has been disconnected from a Buddy server.
 GUI:GPDisconnected
 US: "You have been disconnected from the buddy server. Would you like to reconnect?"
-DE: "Die Verbindung zum Buddy-Server wurde getrennt. Erneut anWähle?"
+DE: "Die Verbindung zum Buddy-Server wurde getrennt. Möchtest Du Dich erneut verbinden?"
 FR: "Vous avez été déconnecté du serveur amis. Voulez-vous vous reconnecter ?"
 ES: "Te han desconectado del servidor de colegas. ¿Quieres volver a conectarte?"
 IT: "Sei stato scollegato dal server. Vuoi collegarti di nuovo?"
@@ -10191,7 +10191,7 @@ END
 
 WOL:CouldNotCreateChannel
 US: "Could not create channel"
-DE: "Channel konnte nicht Erstelle werden."
+DE: "Channel konnte nicht erstellt werden."
 FR: "Création du canal impossible."
 ES: "No se puede crear el canal."
 IT: "Impossibile creare il canale."
@@ -10236,7 +10236,7 @@ END
 
 WOL:CreatingChannel
 US: "Creating channel"
-DE: "Erstelle Channel"
+DE: "Channel erstellen"
 FR: "Création du canal..."
 ES: "Creando canal"
 IT: "Creazione canale"
@@ -13289,7 +13289,7 @@ END
 // context: Command unselect everything
 GUI:SelectNone
 US: "Select None"
-DE: "Nichts Wähle"
+DE: "Nichts Auswählen"
 FR: "Tout désélectionner"
 ES: "No seleccionar nada"
 IT: "Selezione nulla"
@@ -13305,7 +13305,7 @@ END
 // context: Command select all units
 GUI:SelectAll
 US: "Select All"
-DE: "Alle Wähle"
+DE: "Alle Auswählen"
 FR: "Tout sélectionner"
 ES: "Seleccionar todas"
 IT: "Seleziona tutti"
